@@ -1,1 +1,1 @@
-# blog-journal
+this is a blog/journal this project works with database you will need to down load the files to your computer and run them from your localhost. the data will not be lost if you refresh the page or restart the server. to compose a new post you will need to add: /compose 
